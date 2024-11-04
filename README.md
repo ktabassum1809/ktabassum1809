@@ -22,7 +22,7 @@ I'm currently pursuing a **Full Stack Web Development** course at **DCI (Digital
 ## 📫 Let's Connect
 - GitHub: [[ktabassum1809](http://github.com/ktabassum1809)]
 - LinkedIn: [https://www.linkedin.com/in/tabassum-khan-3688602b7/]
-- Portfolio: [Your Portfolio URL if available]
+- Portfolio: [https://portfolio-new-gh6v.onrender.com/]
 
 I’m always eager to collaborate and work on exciting projects, feel free to reach out!
 
