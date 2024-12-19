@@ -1,29 +1,43 @@
+# 👋 Hi, I'm **Tabassum Khan**  
+**Full Stack Web Development Student | Aspiring Developer**  
 
+---
 
+🌟 Welcome to my GitHub! I'm currently honing my skills in **Full Stack Web Development** at **DCI Digital Career Institute**.  
+I’m passionate about **coding**, **learning new technologies**, and **building projects** that solve real-world problems.  
+My journey is driven by creativity, curiosity, and a love for turning ideas into reality.
 
-# 👋 Hi, I'm [Tabassum Khan]
+---
 
-### Full Stack Web Development Student | Aspiring Developer
+## 🌱 **What I’m Learning**
 
-I'm currently pursuing a **Full Stack Web Development** course at **DCI (Digital Career Institute)**. I'm passionate about coding, learning new technologies, and creating projects that solve real-world problems. My focus is on both **frontend** and **backend** technologies, aiming to become a proficient full-stack developer.
+### Frontend  
+- 🖌️ **HTML5**, **CSS3**, **JavaScript**  
+- ⚛️ **React.js**  
 
-## 🌱 What I’m Learning
-- **Frontend**: HTML, CSS, JavaScript, React.js
-- **Backend**: Node.js, Express.js, MongoDB
-- **Tools**: Git, GitHub, Visual Studio Code, Figma
-- **Version Control**: Git, GitHub
+### Backend  
+- 🌐 **Node.js**, **Express.js**  
+- 🗄️ **MongoDB**  
 
-## 🚀 Projects & Skills
-- Building responsive and dynamic web applications using **HTML**, **CSS**, and **JavaScript**.
-- Creating modern **React.js** applications with API integration.
-- Developing backend APIs using **Node.js** and **Express.js**.
-- Managing databases with **MongoDB** .
+### Tools  
+- 🛠️ **Git**, **GitHub**, **Visual Studio Code**, **Figma**  
 
-## 📫 Let's Connect
-- GitHub: [[ktabassum1809](http://github.com/ktabassum1809)]
-- LinkedIn: [https://www.linkedin.com/in/tabassum-khan-3688602b7/]
-- Portfolio: [https://portfolio-new-gh6v.onrender.com/]
+---
 
-I’m always eager to collaborate and work on exciting projects, feel free to reach out!
+## 🚀 **Projects & Skills**  
+- **Responsive Web Development:** Creating beautiful, dynamic, and responsive applications with **HTML**, **CSS**, and **JavaScript**.  
+- **Modern React Apps:** Building modern and interactive UIs with **React.js** and integrating APIs.  
+- **Backend APIs:** Developing scalable and secure RESTful APIs using **Node.js** and **Express.js**.  
+- **Database Management:** Designing and managing databases with **MongoDB**.  
 
+---
 
+## 📫 **Let's Connect**
+
+- 🐱‍💻 **GitHub:** [ktabassum1809](https://github.com/ktabassum1809)  
+- 💼 **LinkedIn:** [Tabassum Khan](https://www.linkedin.com/in/tabassum-khan-3688602b7/)  
+- 🌐 **Portfolio:** [https://portfolio-new-gh6v.onrender.com/](https://portfolio-new-gh6v.onrender.com/)  
+
+---
+
+⚡ **Fun Fact:** I’m always eager to collaborate, learn, and work on exciting projects. Let's connect and create something amazing together! 🎉  
